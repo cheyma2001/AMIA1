@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+xgboost
+scikit-learn
+sentence-transformers
+openpyxl
+XlsxWriter
+python-dotenv
